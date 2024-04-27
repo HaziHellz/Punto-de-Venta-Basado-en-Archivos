@@ -1,0 +1,4 @@
+Se exportó Papelería el 26-09-2023
+Total de Facturas: 0.0
+Total de Ventas: 1758.0
+Ganancia: 1758.0
